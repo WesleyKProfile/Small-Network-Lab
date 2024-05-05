@@ -24,7 +24,7 @@ The Small Network Lab aimed to construct a simulated network environment using C
 
 3. Performed subnetting calculations.
 - Selected 192.169.1.0 for the base network IP address
-- Determined the number of subnets required for the network by solving the equation 2^n = 4, where 'n' represents the number of subnet bits. Through this calculation, it was determined that 'n' equals 2, indicating the need for four subnets.
+- Determined the number of subnets required for the network by solving the equation 2^n = 4, where 'n' represents the number of subnet bits. Through this calculation, it was determined that 'n' equals 2.
 - As the network is using a Class C private IP address range, it's established that the subnet mask is 255.255.255.0.
 - Converting the subnet mask to binary format and applying the two subnet bits determined from the previous equation, we obtain: 11111111.11111111.11111111.11000000.
 - The new subnet mask, expressed in decimal notation, is 255.255.255.192.
