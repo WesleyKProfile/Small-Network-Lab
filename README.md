@@ -73,7 +73,7 @@ The Small Network Lab aimed to construct a simulated network environment using C
 
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/1a6f2577-07dd-4323-b28c-7558d453aa33" alt="image">
 
-<sub>*ref 5. the none server VLANs can be seen on the CLI*</sub>sub>
+<sub>*ref 5. the non-server VLANs can be seen on the CLI*</sub>
 
 5. Configured Access Points (APs) by assigning names and passwords. Implemented WPA2-PSK security protocol to ensure encrypted Wi-Fi communication.
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/bbd1b47b-df37-48d1-a302-6f35d8c48eb2" alt="image">
