@@ -15,7 +15,7 @@ The Small Network Lab aimed to construct a simulated network environment using C
 - Proficiency in ensuring functionality of network devices and services
 
 ## Steps
-1. Determined the hardware requirements for the project, excluding servers and cabling.
+1. Determined the hardware requirements for the project.
 
 2. Established wired connections for all devices and organized them into VLAN groups for network segmentation and management.
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/cbcc6f73-0262-49bd-813b-376a45885338" alt="image">
