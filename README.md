@@ -55,5 +55,24 @@ The Small Network Lab aimed to construct a simulated network environment using C
 | Broadcast ID | 192.168.1.255 |
 | Host range | 192.168.1.193-192.168.1.254 |
 
+4. Initiated VLAN creation using the CLI on the switch.
+- Selected the desired range of VLANs.
+- Configured the selected ports into switchport mode.
+- Created VLANs within the selected range.
+![image](https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/209c518b-a2fa-45ee-b45d-ba99899c51d1)
+<sub>*ref 3. the command line entries used to create the four subnets*<\sub>
+
+![image](https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/1a6f2577-07dd-4323-b28c-7558d453aa33)
+<sub>*ref 4. the none server VLANs can be seen on the CLI*<\sub>
+
+5. Configured Access Points (APs) by assigning names and passwords. Implemented WPA2-PSK security protocol to ensure encrypted Wi-Fi communication.
+![image](https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/bbd1b47b-df37-48d1-a302-6f35d8c48eb2)
+<sub>*ref 5. the configuration of the APs*<\sub>
+
+6. Enabled trunking on the switch to allow the transmission of multiple VLANs over a single link.
+![image](https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/bf3d291e-ab93-43ba-b0d6-24b58c6e4cca)
+<sub>*ref 6. CLI entries to enable trunking on the switch*<\sub>
+
+
 
 
