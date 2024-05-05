@@ -9,10 +9,10 @@ The Small Network Lab aimed to construct a simulated network environment using C
 
 ### Skills Learned
 
-- Fluency in network design.
-- Mastery of subnetting techniques for efficient IP address allocation.
-- Strategic deployment of VLANs to improve network scalability and management.
-- Proficiency in ensuring seamless operation of network devices and services.
+- Network design
+- Mastery of subnetting techniques for efficient IP address allocation
+- Strategic deployment of VLANs to improve network scalability and management
+- Proficiency in ensuring functionality of network devices and services
 
 ## Steps
 1. Determined the hardware requirements for the project, excluding servers and cabling.
