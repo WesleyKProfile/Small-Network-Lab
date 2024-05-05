@@ -11,4 +11,4 @@ The Small Network Lab aimed to construct a simulated network environment using C
 - Proficiency in ensuring seamless operation of network devices and services.
 
 ## Steps
-
+1. Determined the hardware requirements for the project, excluding servers and cabling.
