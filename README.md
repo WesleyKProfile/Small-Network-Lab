@@ -1,5 +1,5 @@
 # Small Network Lab
-![image](https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/b11cb2e9-a010-4ebd-bf88-24cfb44517bf)
+![image](https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/e0211389-86db-4280-9737-45cc6d883690)
 <sub>*ref 1. final network topology *<\sub>
 
 ## Objective
