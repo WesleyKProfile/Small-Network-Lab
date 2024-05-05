@@ -70,6 +70,7 @@ The Small Network Lab aimed to construct a simulated network environment using C
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/209c518b-a2fa-45ee-b45d-ba99899c51d1" alt="image">
 
 <sub>*ref 4. the command line entries used to create the four subnets*</sub>
+
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/1a6f2577-07dd-4323-b28c-7558d453aa33" alt="image">
 
 <sub>*ref 5. the none server VLANs can be seen on the CLI*</sub>sub>
@@ -77,7 +78,7 @@ The Small Network Lab aimed to construct a simulated network environment using C
 5. Configured Access Points (APs) by assigning names and passwords. Implemented WPA2-PSK security protocol to ensure encrypted Wi-Fi communication.
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/bbd1b47b-df37-48d1-a302-6f35d8c48eb2" alt="image">
 
-<sub>*ref 6. the configuration of the APs*</sub>
+<sub>*ref 6. the configuration of the APs* </sub>
 
 6. Enabled trunking on the switch to allow the transmission of multiple VLANs over a single link.
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/bf3d291e-ab93-43ba-b0d6-24b58c6e4cca" alt="image">
