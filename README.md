@@ -31,3 +31,9 @@ The Small Network Lab aimed to construct a simulated network environment using C
 - The broadcast ID for each subnet is one less than the network ID of the next subnet.
 - Finally, The host range for each subnet is from one less than the network ID to one less than the broadcast ID.
 
+| First subnet | |
+| Network ID | 192.168.1.0 |
+| Broadcast ID | 192.168.63 |
+|Host range | 192.168.1.1-192.168.62 |
+
+
