@@ -109,14 +109,14 @@ The Small Network Lab aimed to construct a simulated network environment using C
 13. Verified network functionality by conducting ping tests to confirm connectivity and assess network responsiveness.
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/a524561e-fa43-4b44-a43f-3ff66abf652d" alt="image">
 
-<sub>*ref 11. ping command being used to test network functionality*<\sub>
+<sub>*ref 11. ping command being used to test network functionality*</sub>
 
 14. Connected an email and file server to the switch and segregated them into their own VLAN for enhanced network security and resource management.
 
 15. Established connectivity between the network and the internet to enable access to external resources and services.
 <img src="https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/e0211389-86db-4280-9737-45cc6d883690" alt="image">
 
-<sub>*ref 12. final network topology showcasing network infrastructure and connectivity*<\sub>
+<sub>*ref 12. final network topology showcasing network infrastructure and connectivity*</sub>
 
 
 
