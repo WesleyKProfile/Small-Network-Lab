@@ -5,7 +5,7 @@
 <sub>*ref 1. final network topology*</sub>
 
 ## Objective
-The Small Network Lab aimed to construct a simulated network environment using Cisco Packet Tracer, integrating subnetting and VLANs to enhance network segmentation. The primary focus was to design and implement subnetting schemes to optimize IP address allocation and VLAN configurations, and to logically segregate network traffic. This hands-on experience provided practical insights into network segmentation, IP addressing, and VLAN deployment, fostering a deeper understanding of network security principles and defensive strategies.
+The Small Network Lab aimed to construct a simulated network environment using Cisco Packet Tracer, integrating subnetting and VLANs to enhance network segmentation. The primary focus was to design and implement subnetting schemes to optimize IP address allocation and VLAN configurations, and to logically segregate network traffic. This hands-on experience provided practical insights into network segmentation, IP addressing, and VLAN deployment.
 
 ### Skills Learned
 
