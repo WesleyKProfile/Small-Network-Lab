@@ -19,5 +19,15 @@ The Small Network Lab aimed to construct a simulated network environment using C
 ![image](https://github.com/WesleyKProfile/Small-Network-Lab/assets/168662972/4f5e2a1a-b0f7-4139-819a-2609ed11b0a5)
 <sub>*ref 2. colored circles show VLANs to be implemented*<\sub>
 
-3. 
+3. Performed subnetting calculations.
+- Selected 192.169.1.0 for the base network IP address
+- Determined the number of subnets required for the network by solving the equation 2^n = 4, where 'n' represents the number of subnet bits. Through this calculation, it was determined that 'n' equals 2, indicating the need for four subnets.
+- As the network is using a Class C private IP address range, it's established that the subnet mask is 255.255.255.0.
+- Converting the subnet mask to binary format and applying the two subnet bits determined from the previous equation, we obtain: 11111111.11111111.11111111.11000000.
+- The new subnet mask, expressed in decimal notation, is 255.255.255.192.
+- The value '192' in the last octet of the new subnet mask indicates that the block size is 64.
+- With all necessary information at hand, we can now calculate the network ID, broadcast ID, and host range.
+- For the first network, the network ID is equal to the base network. For subsequent networks, the network ID is determined by adding the block size, 64, to the previous network ID.
+- The broadcast ID for each subnet is one less than the network ID of the next subnet.
+- Finally, The host range for each subnet is from one less than the network ID to one less than the broadcast ID.
 
